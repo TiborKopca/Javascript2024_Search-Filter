@@ -10,7 +10,7 @@
 ![here](/screenshots/SearchFilter.png)
 
 ## Online Link
-[github Pages Link](https://tiborkopca.github.io/Javascript2024-FORM/)
+[github Pages Link](https://tiborkopca.github.io/Javascript2024_Search-Filter/)
 
 ## Authors
 
